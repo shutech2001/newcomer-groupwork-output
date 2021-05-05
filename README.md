@@ -7,3 +7,9 @@ LGB Classifier : Best Parameters
 radius = 43  
 AUC : 0.8225  
 window_radius ==>> __ seq __
+
+## output2.csv  
+Pytorch  
+Q^2:0.2472  
+AUC:0.8113  
+radius = 43
